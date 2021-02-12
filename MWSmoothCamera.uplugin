@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MWSmoothCamera",
+	"Description": "RTS-like smooth camera plugin for Windows with support for panning, zooming, and orbiting.",
+	"Category": "Other",
+	"CreatedBy": "Morgan Wesemann",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MWSmoothCamera",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
