@@ -5,8 +5,9 @@ An RTS-like smooth camera plugin for Unreal Engine
 
 ## Required Setup
 
-1. Download plugin and place in the Plugins directory of your project
+1. Install the plugin by cloning or downloading this repo and place in the Plugins directory of your project
 2. Restart your editor (you will likely be prompted)
+3. Check that the plugin is enabled by going to Edit -> Plugins
 3. Create your own custom GameMode blueprint so you can override the default Pawn and PlayerController Blueprints
 4. Create a new blueprint that extends PlayerController
     * Set `Show Mouse Cursor` to true so the cursor remains visible in game
@@ -15,7 +16,7 @@ An RTS-like smooth camera plugin for Unreal Engine
 6. In the World Settings for your level, override the GameMode with yours
     * Set the PlayerController to your new PlayerController blueprint
     * Set the Pawn to your new Pawn blueprint
-7. In your Editor Settings -> Input add the following input mappings:
+7. In Edit -> Editor Settings -> Input add the following input mappings:
 
 |Name  | Input |
 | ------------- | ------------- |
