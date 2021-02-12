@@ -3,6 +3,16 @@
 # MWSmoothCamera
 An RTS-like smooth camera plugin for Unreal Engine
 
+## Table of Contents
+- [MWSmoothCamera](#mwsmoothcamera)
+  * [Required Setup](#required-setup)
+      - [MoveCameraLeftRight](#movecameraleftright)
+      - [MoveCameraUpDown](#movecameraupdown)
+      - [ZoomCamera](#zoomcamera)
+  * [C++ Support](#c-support)
+  * [FAQ](#faq)
+  * [Known Limitations](#known-limitations)
+
 ## Required Setup
 
 1. Install the plugin by cloning or downloading this repo and place in the Plugins directory of your project
