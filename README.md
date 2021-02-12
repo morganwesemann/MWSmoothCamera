@@ -73,3 +73,5 @@ The plugin is coded in C++ and exposed to Blueprints, so all the same methods ar
 * Assumed the plugin is used on a desktop Windows game
 * Assumes the player is using a keyboard and mouse
 * If MoveCameraLeftRight and MoveCameraUpDown methods are not bound to the correct inputs, the camera will start moving on play
+* This plugin was built and tested with Unreal Engine 4.26, support is not guaranteed for older or newer versions
+* This plugin was tested in a single-player environment, and has not been tested in a multiplayer game
